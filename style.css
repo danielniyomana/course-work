@@ -12,6 +12,7 @@
     position: fixed;
     box-shadow: 1px 1px 3px , -1px -1px 3px;
     border: 1px solid white;
+    top:0;
 }
 img{
     width: 300px;
